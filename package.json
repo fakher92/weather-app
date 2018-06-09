@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakher92/weather-app.git"
+  },
+  "author": "Fakher Alhamad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakher92/weather-app/issues"
+  },
+  "homepage": "https://github.com/fakher92/weather-app#readme",
+  "dependencies": {
+    "install": "^0.11.0",
+    "npm": "^6.1.0",
+    "request": "^2.87.0"
+  }
+}
